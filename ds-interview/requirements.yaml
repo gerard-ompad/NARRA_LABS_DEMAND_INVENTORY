@@ -1,0 +1,23 @@
+dependencies:
+  - numpy
+  - pandas
+  - dash-bootstrap-components
+  - dash-mantine-components
+  - plotly
+  - dash
+  - joblib
+  - xgboost
+  - python-dateutil # for handling datetime dependencies
+  - pytz # timezone-aware datetime manipulation, often needed with datetime
+  - pandas
+  - xgboost
+  - matplotlib
+  - optuna
+  - joblib
+  - statsmodels
+  - plotly
+  - scikit-learn
+  - seaborn
+  - dash
+  - flask  # Required by Dash
+  - dash-table
